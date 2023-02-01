@@ -3,11 +3,14 @@
 
 typedef struct _Node(){
     NoDE* next;
+typedef struct node(){
+    Node next;
     int value;
 }Node ;
 
 
 int main(Strgg)
+void main()
 {
     
     return 0;
